@@ -1,10 +1,106 @@
 :root {
-	--primary-color: #08a6e4;
+	--color-primary: #08a6e4;
 	--color-primary-shadow: rgba(7, 172, 230, 0.16);
 	--color-redish: #fb3b64;
 	--color-green: #55dfb4;
 	--color-black: #000000;
+	--color-white: #ffffff;
 	--color-grey: #a5a5a5;
 	--color-light-grey: #f7f7f7;
-	--color-white: #ffffff;
+	--button-radius: 35px;
+	--font-raleway: 'Raleway', sans-serif;
+	--font-open-sans: 'Open Sans', sans-serif;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: var(--font-open-sans);
+}
+a {
+	text-decoration: none;
+}
+.container {
+	width: 1352px;
+	margin: 0 auto;
+}
+.header {
+	height: 70px;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+.header__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+}
+.logo {
+	font-family: var(--font-raleway);
+	font-size: 2rem;
+	font-weight: 300;
+	color: var(--color-primary);
+}
+.header__nav {
+	display: flex;
+}
+.nav__link {
+	color: var(--color-grey);
+	font-weight: 700;
+	font-size: 0.6875rem;
+	text-transform: uppercase;
+	padding: 28px 18px 22px;
+	border-bottom: 4px solid transparent;
+	letter-spacing: 0.1875rem;
+}
+
+.nav__link:hover {
+	color: var(--color-black);
+	border-color: var(--color-primary);
+}
+.nav__element {
+	padding: 0 26px;
+}
+.nav__element:last-child {
+	padding-right: 0;
+}
+.opening {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.opening__content {
+	margin-top: 130px;
+	text-align: center;
+}
+.opening__header {
+	font-family: var(--font-raleway);
+	font-size: 3.0625rem; /* 49px (z projektu) / 16 (bazowa wielkość) = 3.0625 */
+}
+
+.opening__heading {
+	margin-top: 20px;
+	margin-bottom: 38px;
+}
+
+.opening__image {
+	width: 100%;
+	height: auto;
+}
+.btn {
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	padding: 16px 65px;
+	border-radius: var(--button-radius);
+	border: none;
+}
+
+.btn--primary {
+	background-color: var(--color-primary);
+	border-radius: var(--button-radius);
+	box-shadow: 3px 10px 14px var(--color-primary-shadow);
+}
+
+.btn--large {
+	padding: 22px 155px;
 }
