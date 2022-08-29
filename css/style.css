@@ -322,13 +322,16 @@ a {
 }
 .pricing__red-box {
 	border: 1px solid var(--color-redish);
+	transform: scale(0.95);
 }
 .pricing__blue-box {
 	border: 1px solid var(--color-primary);
 	box-shadow: 5px 10px 27px #07ace629;
+	transform: scale(1.05);
 }
 .pricing__green-box {
 	border: 1px solid var(--color-green);
+	transform: scale(0.95);
 }
 .pricing__box h3 {
 	font-size: 21px;
