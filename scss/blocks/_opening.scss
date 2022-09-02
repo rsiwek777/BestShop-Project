@@ -1,0 +1,46 @@
+.opening {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	&__content {
+		margin-top: 130px;
+		text-align: center;
+		@include mobile {
+			margin-top: 100px;
+		}
+	}
+	&__header {
+		font-family: $font-raleway;
+		font-size: 3.0625rem;
+	}
+	&__heading {
+		margin-top: 20px;
+		margin-bottom: 38px;
+		@include mobile {
+			padding: 0 70px;
+		}
+	}
+	&__image {
+		width: 100%;
+		height: auto;
+	}
+	.btn {
+		@include mobile {
+			transform: scale(0.8);
+		}
+		color: white;
+		font-weight: bold;
+		display: inline-block;
+		padding: 16px 65px;
+		border-radius: $button-radius;
+		border: none;
+	}
+	.btn--primary {
+		background-color: $color-primary;
+		border-radius: $button-radius;
+		box-shadow: 3px 10px 14px $color-primary-shadow;
+	}
+	.btn--large {
+		padding: 22px 155px;
+	}
+}

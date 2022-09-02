@@ -1,0 +1,101 @@
+.pricing {
+	margin: 100px auto;
+	display: flex;
+	flex-direction: column;
+	font-family: $font-raleway;
+}
+.pricing__container {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	gap: 59px;
+	@include tablet {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}
+.pricing__title {
+	text-align: center;
+	margin-bottom: 50px;
+	font: normal normal normal 36px/42px $font-raleway;
+}
+.pricing__box {
+	border-radius: 18px;
+	padding: 34px 100px;
+	@include tablet {
+		margin: 0 50px;
+		width: 100%;
+		box-sizing: border-box;
+	}
+}
+.pricing__red-box {
+	border: 1px solid $color-redish;
+	transform: scale(0.95);
+}
+.pricing__blue-box {
+	border: 1px solid $color-primary;
+	box-shadow: 5px 10px 27px #07ace629;
+	transform: scale(1.05);
+}
+.pricing__green-box {
+	border: 1px solid $color-green;
+	transform: scale(0.95);
+}
+.pricing__box h3 {
+	font-size: 21px;
+	font-weight: 700;
+}
+.pricing__box:first-child h4 {
+	margin: 14px;
+	font: normal normal 300 46px Open Sans;
+	color: $color-redish;
+}
+.pricing__box:nth-child(2) h4 {
+	margin: 14px;
+	font: normal normal 300 46px Open Sans;
+	color: $color-primary;
+}
+.pricing__box:last-child h4 {
+	margin: 14px;
+	font: normal normal 300 46px Open Sans;
+	color: $color-green;
+}
+.pricing__box:nth-child(2) p,
+.pricing__box:last-child p {
+	font-size: 12px;
+	font-weight: 700;
+}
+.pricing__box-lists {
+	padding: 60px 50px;
+	@include tablet {
+		padding: 0;
+	}
+}
+.pricing__box-element {
+	font: normal normal normal 14px/41px $font-open-sans;
+	min-width: 130px;
+}
+.pricing__box .btn {
+	position: relative;
+	padding: 20px 50px;
+	border-radius: 50px;
+	bottom: 0;
+	font-size: 0.8125rem;
+	background-color: $color-redish;
+	transform: translate(-50% 50%);
+	top: 35px;
+	color: #fff;
+	font-weight: 700;
+	font-size: 14px;
+}
+.pricing__box:first-child .btn {
+	top: 45px;
+}
+.pricing__box:nth-child(2) .btn {
+	background-color: $color-primary;
+	box-shadow: 5px 1px 27px $color-primary-shadow;
+}
+.pricing__box:last-child .btn {
+	background-color: $color-green;
+}
