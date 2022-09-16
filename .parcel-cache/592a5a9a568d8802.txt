@@ -1,6 +1,6 @@
-3024
+3028
 79C:\Users\Radek\coderslab\BestShop-Project\node_modules\abortcontroller-polyfill133065809960651292 1
-46C:\Users\Radek\coderslab\BestShop-Project\dist133065956026290326 1
+46C:\Users\Radek\coderslab\BestShop-Project\dist133077973713300440 1
 91C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\lib\loadParcelPlugin.js133065809962361305 0
 87C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\utils\src\getExisting.js133065809960901281 0
 84C:\Users\Radek\coderslab\BestShop-Project\node_modules\electron-to-chromium\index.js133065809960181292 0
@@ -13,15 +13,7 @@
 80C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\src\v8-functions.cpp133065809962411289 0
 83C:\Users\Radek\coderslab\BestShop-Project\node_modules\sass\types\value\number.d.ts133065809962731297 0
 119C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\codeframe\lib\codeframe.js.map133065809961741309 0
-52C:\Users\Radek\coderslab\BestShop-Project\index.html133065952741915093 0
-66C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_footer.scss133065953378737962 0
-107C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\markdown-ansi\test133065809960001288 1
-71C:\Users\Radek\coderslab\BestShop-Project\node_modules\anymatch\LICENSE133065809959601305 0
-93C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\src\public\BundleGraph.js133065809961491280 0
-89C:\Users\Radek\coderslab\BestShop-Project\node_modules\sass\types\logger\source_span.d.ts133065809962801287 0
-108C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133065809969711902 0
-109C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133065809970988898 0
-53C:\Users\Radek\coderslab\BestShop-Project\scss\blocks133065829031934728 1
+52C:\Users\Radek\coderslab\BestShop-Project\index.html133077946458014348 0
 69C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-gyp-build133065809960201301 1
 126C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133065809977550691 0
 99C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\css-page-break.js133065809963841283 0
@@ -50,6 +42,10 @@
 115C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\graph\node_modules\@parcel\utils\src\PromiseQueue.js133065809961851289 0
 98C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\localecompare.js133065809970631522 0
 122C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133065809977550691 0
+66C:\Users\Radek\coderslab\BestShop-Project\node_modules\safe-buffer133065809960051294 1
+135C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133065809961321294 0
+73C:\Users\Radek\coderslab\BestShop-Project\node_modules\.package-lock.json133065809978890692 0
+51C:\Users\Radek\coderslab\BestShop-Project\script.js133077975556780160 0
 63C:\Users\Radek\coderslab\BestShop-Project\scss\misc\_mixin.scss133065888038531537 0
 104C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\hash\parcel-hash.linux-arm-gnueabihf.node133065809961001287 0
 102C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133065809962491285 0
@@ -59,12 +55,20 @@
 123C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\config\empty.json133065809962331298 0
 67C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite133065809977400689 1
 51C:\Users\Radek\coderslab\BestShop-Project\README.md133057267198521718 0
+66C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_footer.scss133065953378737962 0
+107C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\markdown-ansi\test133065809960001288 1
+71C:\Users\Radek\coderslab\BestShop-Project\node_modules\anymatch\LICENSE133065809959601305 0
+93C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\src\public\BundleGraph.js133065809961491280 0
+89C:\Users\Radek\coderslab\BestShop-Project\node_modules\sass\types\logger\source_span.d.ts133065809962801287 0
+108C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133065809969711902 0
+109C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133065809970988898 0
+53C:\Users\Radek\coderslab\BestShop-Project\scss\blocks133077262370660972 1
 67C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_contact.scss133065956025121468 0
 109C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\logger\lib\Logger.js133065809959781291 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\BT.js133065809962331298 0
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\logger\package.json133065809960141286 0
 132C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133065809961591289 0
-56C:\Users\Radek\coderslab\BestShop-Project\scss\main.scss133065955573254771 0
+56C:\Users\Radek\coderslab\BestShop-Project\scss\main.scss133077262526880294 0
 95C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133065809959661288 1
 77C:\Users\Radek\coderslab\BestShop-Project\node_modules\picomatch\CHANGELOG.md133065809960411297 0
 78C:\Users\Radek\coderslab\BestShop-Project\node_modules\nan\doc\string_bytes.md133065809961611289 0
@@ -93,13 +97,16 @@
 97C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133065809962831300 0
 121C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133065809962541284 0
 68C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_benefits.scss133065918054761276 0
+108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\plugin\package.json133065809960011286 0
+64C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_calc.scss133077264005635509 0
+101C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\fixtures\packages133065809960891303 1
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\JE.js133065809969450887 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\dependencies\lz4\lib\lz4.c133065809961251291 0
 69C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-addon-api133065809960941290 1
 66C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_header.scss133065878008115772 0
 67C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_opening.scss133065882006310852 0
 69C:\Users\Radek\coderslab\BestShop-Project\node_modules\nan\nan_json.h133065809960451296 0
-67C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_pricing.scss133065946621561543 0
+67C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_pricing.scss133077259664849096 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\RO.js133065809973677206 0
 95C:\Users\Radek\coderslab\BestShop-Project\node_modules\abortcontroller-polyfill\src\polyfill.js133065809960431297 0
 70C:\Users\Radek\coderslab\BestShop-Project\scss\blocks\_statistics.scss133065885373926579 0
@@ -118,9 +125,6 @@
 122C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\graph\node_modules\@parcel\codeframe\test\codeframe.test.js133065809961091286 0
 73C:\Users\Radek\coderslab\BestShop-Project\node_modules\json5\package.json133065809960591290 0
 84C:\Users\Radek\coderslab\BestShop-Project\node_modules\ordered-binary\dist\index.cjs133065809959761300 0
-66C:\Users\Radek\coderslab\BestShop-Project\node_modules\safe-buffer133065809960051294 1
-135C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133065809961321294 0
-73C:\Users\Radek\coderslab\BestShop-Project\node_modules\.package-lock.json133065809978890692 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\ER.js133065809965501296 0
 120C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\src\relativeBundlePath.js133065809961881315 0
 106C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\src\blob.js133065809960291298 0
@@ -204,7 +208,6 @@
 101C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\css-text-justify.js133065809963971293 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\TT.js133065809976287130 0
 68C:\Users\Radek\coderslab\BestShop-Project\node_modules\color-convert133065809960211294 1
-68C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases133065809960161288 1
 70C:\Users\Radek\coderslab\BestShop-Project\node_modules\xxhash-wasm\cjs133065809960131289 1
 82C:\Users\Radek\coderslab\BestShop-Project\node_modules\weak-lru-cache\package.json133065809960251292 0
 125C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\workers\src\process\ProcessWorker.js133065809961131285 0
@@ -280,6 +283,7 @@
 133C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133065809962051286 0
 90C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\http2.js133065809968467599 0
 81C:\Users\Radek\coderslab\BestShop-Project\node_modules\source-map-js\CHANGELOG.md133065809960681296 0
+68C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases133065809960161288 1
 69C:\Users\Radek\coderslab\BestShop-Project\node_modules\normalize-path133065809959911296 1
 80C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr\rollup.config.js133065809960531285 0
 97C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\src\env.cpp133065809962471286 0
@@ -569,7 +573,7 @@
 91C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\dnssec.js133065809965161299 0
 84C:\Users\Radek\coderslab\BestShop-Project\node_modules\source-map-js\source-map.d.ts133065809960771284 0
 103C:\Users\Radek\coderslab\BestShop-Project\node_modules\abortcontroller-polyfill\dist\abortcontroller.js133065809960121301 0
-65C:\Users\Radek\coderslab\BestShop-Project\dist\index.574c7455.css133065956026280322 0
+65C:\Users\Radek\coderslab\BestShop-Project\dist\index.574c7455.css133077950980932694 0
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\src\ordered-binary.cpp133065809962501292 0
 82C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\events\src\index.js133065809960341293 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\chrome-trace-event\package.json133065809959761300 0
@@ -752,10 +756,11 @@
 76C:\Users\Radek\coderslab\BestShop-Project\node_modules\ordered-binary\assets133065809960401301 1
 116C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\graph\node_modules\@parcel\utils\test\input\sourcemap133065809962751294 1
 103C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\picture-in-picture.js133065809972700611 0
+114C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133065809960991291 0
+68C:\Users\Radek\coderslab\BestShop-Project\dist\index.672d4772.js.map133077973713280432 0
 102C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\utils\node_modules\@parcel\hash\LICENSE133065809959641291 0
 109C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133065809960141286 0
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\comparedocumentposition.js133065809962761297 0
-114C:\Users\Radek\coderslab\BestShop-Project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133065809960991291 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\WF.js133065809977190693 0
 114C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\workers\src\childState.js133065809960391289 0
 80C:\Users\Radek\coderslab\BestShop-Project\node_modules\ordered-binary\index.d.ts133065809960491289 0
@@ -821,10 +826,10 @@
 76C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases\LICENSE133065809959611302 0
 81C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases\package.json133065809959921290 0
 78C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases\README.md133065809960181292 0
+71C:\Users\Radek\coderslab\BestShop-Project\node_modules\dotenv\README.md133065809960071300 0
+100C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\canvas-blending.js133065809962381291 0
 131C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133065809960911293 0
 83C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-releases\data\processed133065809959761300 1
-100C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\canvas-blending.js133065809962381291 0
-71C:\Users\Radek\coderslab\BestShop-Project\node_modules\dotenv\README.md133065809960071300 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\MQ.js133065809971256582 0
 94C:\Users\Radek\coderslab\BestShop-Project\node_modules\node-gyp-build-optional-packages\bin.js133065809959721290 0
 135C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133065809977540691 0
@@ -963,7 +968,7 @@
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\MM.js133065809971048895 0
 74C:\Users\Radek\coderslab\BestShop-Project\node_modules\json5\lib\util.d.ts133065809960971295 0
 72C:\Users\Radek\coderslab\BestShop-Project\node_modules\nan\tools\1to2.js133065809961051292 0
-67C:\Users\Radek\coderslab\BestShop-Project\dist\Catalog.5ebe22b4.svg133065955574697172 0
+67C:\Users\Radek\coderslab\BestShop-Project\dist\Catalog.5ebe22b4.svg133077950981022685 0
 81C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\workers\lib\bus.js133065809960001288 0
 77C:\Users\Radek\coderslab\BestShop-Project\node_modules\nan\doc\asyncworker.md133065809961161300 0
 73C:\Users\Radek\coderslab\BestShop-Project\node_modules\nan\doc\buffers.md133065809961191289 0
@@ -1008,7 +1013,7 @@
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\RU.js133065809973681207 0
 84C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr-extract\package.json133065809960711290 0
 98C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133065809960021293 0
-69C:\Users\Radek\coderslab\BestShop-Project\dist\Mail Icon.795518c4.svg133065955574697172 0
+69C:\Users\Radek\coderslab\BestShop-Project\dist\Mail Icon.795518c4.svg133077950980932694 0
 75C:\Users\Radek\coderslab\BestShop-Project\node_modules\msgpackr-extract\src133065809960041297 1
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\LY.js133065809970780338 0
 107C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\node-addon-api\except.gypi133065809959931297 0
@@ -1533,7 +1538,7 @@
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\AX.js133065809961621303 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\AZ.js133065809961651297 0
 90C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\const.js133065809962791304 0
-69C:\Users\Radek\coderslab\BestShop-Project\dist\Checkmark.5be52c02.svg133065955574717174 0
+69C:\Users\Radek\coderslab\BestShop-Project\dist\Checkmark.5be52c02.svg133077950980992691 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\BD.js133065809961811295 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\BE.js133065809961831295 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\BF.js133065809961871288 0
@@ -1653,7 +1658,7 @@
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\NC.js133065809971336654 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\NF.js133065809971722900 0
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\NP.js133065809971891527 0
-71C:\Users\Radek\coderslab\BestShop-Project\dist\Ckechmark-1.cf657890.svg133065955574697172 0
+71C:\Users\Radek\coderslab\BestShop-Project\dist\Ckechmark-1.cf657890.svg133077950981022685 0
 93C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\fontface.js133065809966551285 0
 107C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\graph\node_modules\@parcel\markdown-ansi\src133065809959871304 1
 86C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\regions\NR.js133065809971891527 0
@@ -1962,7 +1967,7 @@
 94C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\flow-root.js133065809966121296 0
 97C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\font-feature.js133065809966161301 0
 97C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\font-kerning.js133065809966161301 0
-63C:\Users\Radek\coderslab\BestShop-Project\dist\Eye.10263c42.svg133065955574717174 0
+63C:\Users\Radek\coderslab\BestShop-Project\dist\Eye.10263c42.svg133077950980992691 0
 107C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\font-metrics-overrides.js133065809966171285 0
 101C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\font-size-adjust.js133065809966181288 0
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\caniuse-lite\data\features\font-variant-alternates.js133065809966201301 0
@@ -2212,7 +2217,7 @@
 83C:\Users\Radek\coderslab\BestShop-Project\node_modules\abortcontroller-polyfill\src133065809960581290 1
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\workers\lib\threads133065809961341283 1
 95C:\Users\Radek\coderslab\BestShop-Project\node_modules\abortcontroller-polyfill\src\ponyfill.js133065809960491289 0
-65C:\Users\Radek\coderslab\BestShop-Project\dist\Close.f14f7566.svg133065955574717174 0
+65C:\Users\Radek\coderslab\BestShop-Project\dist\Close.f14f7566.svg133077950980962681 0
 72C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\codeframe133065809961151300 1
 67C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core133065809964741297 1
 69C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\events133065809960611288 1
@@ -2382,7 +2387,7 @@
 99C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133065809960811301 0
 100C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133065809960191318 0
 73C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\plugin\lib133065809959741298 1
-67C:\Users\Radek\coderslab\BestShop-Project\dist\Twitter.1a2aeb0b.svg133065955574697172 0
+67C:\Users\Radek\coderslab\BestShop-Project\dist\Twitter.1a2aeb0b.svg133077950981022685 0
 77C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\plugin\LICENSE133065809959641291 0
 97C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\binding.gyp133065809962751294 0
 82C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\plugin\package.json133065809960001288 0
@@ -2397,8 +2402,6 @@
 116C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133065809961331297 0
 98C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\fixtures\empty133065809961411295 1
 126C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\graph\node_modules\@parcel\utils\test\input\sourcemap\inline.js133065809961631281 0
-108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\plugin\package.json133065809960011286 0
-101C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\fixtures\packages133065809960891303 1
 111C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133065809961601297 1
 144C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133065809963281285 0
 116C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133065809960921287 0
@@ -2813,7 +2816,7 @@
 130C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133065809961981293 0
 120C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\config\.testrc133065809959711296 0
 123C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\config\empty.toml133065809962791304 0
-69C:\Users\Radek\coderslab\BestShop-Project\dist\index.574c7455.css.map133065956026290326 0
+69C:\Users\Radek\coderslab\BestShop-Project\dist\index.574c7455.css.map133077950980962681 0
 114C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\src\alternatives.js133065809960161288 0
 111C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\src\ansi-html.js133065809960221298 0
 108C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\utils\src\config.js133065809960531285 0
@@ -2845,7 +2848,7 @@
 112C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\plugin\lib\PluginAPI.js133065809959781291 0
 112C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\LICENSE133065809959651289 0
 117C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\package.json133065809961391287 0
-66C:\Users\Radek\coderslab\BestShop-Project\dist\Person.880b4a19.svg133065955574697172 0
+66C:\Users\Radek\coderslab\BestShop-Project\dist\Person.880b4a19.svg133077950980932694 0
 127C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\test\fixtures\packages133065809960891303 1
 129C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\test\fixtures\packages\a133065809961561290 1
 137C:\Users\Radek\coderslab\BestShop-Project\node_modules\@parcel\core\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133065809961601297 1
@@ -3014,12 +3017,13 @@
 62C:\Users\Radek\coderslab\BestShop-Project\images\Mail Icon.svg133057248323144217 0
 59C:\Users\Radek\coderslab\BestShop-Project\images\Person.svg133057248322364217 0
 60C:\Users\Radek\coderslab\BestShop-Project\images\Twitter.svg133057248323434216 0
-70C:\Users\Radek\coderslab\BestShop-Project\dist\Background.b0093fb6.png133065955574747149 0
-75C:\Users\Radek\coderslab\BestShop-Project\dist\BestShop-Project.3464ddca.js133065955574697172 0
-79C:\Users\Radek\coderslab\BestShop-Project\dist\BestShop-Project.3464ddca.js.map133065955574737140 0
-68C:\Users\Radek\coderslab\BestShop-Project\dist\Facebook.b1acd7ee.svg133065955574717174 0
-57C:\Users\Radek\coderslab\BestShop-Project\dist\index.html133065955574717174 0
-66C:\Users\Radek\coderslab\BestShop-Project\dist\iPhone.65a507eb.png133065955574727144 0
-67C:\Users\Radek\coderslab\BestShop-Project\dist\Macbook.a5eb91ef.png133065955574737140 0
-70C:\Users\Radek\coderslab\BestShop-Project\dist\Phone Icon.82019235.svg133065955574727144 0
-67C:\Users\Radek\coderslab\BestShop-Project\dist\Trumpet.d291d6ae.png133065955574737140 0
+70C:\Users\Radek\coderslab\BestShop-Project\dist\Background.b0093fb6.png133077950980992691 0
+75C:\Users\Radek\coderslab\BestShop-Project\dist\BestShop-Project.3464ddca.js133077263090988320 0
+79C:\Users\Radek\coderslab\BestShop-Project\dist\BestShop-Project.3464ddca.js.map133077263091018319 0
+68C:\Users\Radek\coderslab\BestShop-Project\dist\Facebook.b1acd7ee.svg133077950980962681 0
+64C:\Users\Radek\coderslab\BestShop-Project\dist\index.672d4772.js133077973713280432 0
+57C:\Users\Radek\coderslab\BestShop-Project\dist\index.html133077950981022685 0
+66C:\Users\Radek\coderslab\BestShop-Project\dist\iPhone.65a507eb.png133077950980962681 0
+67C:\Users\Radek\coderslab\BestShop-Project\dist\Macbook.a5eb91ef.png133077950980992691 0
+70C:\Users\Radek\coderslab\BestShop-Project\dist\Phone Icon.82019235.svg133077950980992691 0
+67C:\Users\Radek\coderslab\BestShop-Project\dist\Trumpet.d291d6ae.png133077950981022685 0
